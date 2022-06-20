@@ -9,11 +9,11 @@
 
 <script>
 import PageTitle from './components/PageTitle.vue';
-import JumboTron from '../components/JumboTron.vue';
+import JumboTron from './components/JumboTron.vue';
 
 export default {
   components: {
-    PageTitle, JumboTron,
+    PageTitle, JumboTron
   }
 }
 </script>
