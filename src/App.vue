@@ -1,16 +1,19 @@
 <template>
   <div>
+    <Jumbotron></Jumbotron>
     <PageTitle></PageTitle>
+
 
   </div>
 </template>
 
 <script>
 import PageTitle from './components/PageTitle.vue';
+import Jumbotron from '../components/jumbotron.vue';
 
 export default {
   components: {
-    PageTitle,
+    PageTitle, Jumbotron
   }
 }
 </script>

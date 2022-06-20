@@ -1,7 +1,7 @@
 <template>
 <div>
-    <h1>Titolo pagina</h1>
-    <p>contenuto del componente PageTitle</p>
+    <h1>La mia prima app con Vue CLI!</h1>
+    <p>Vue CLI is very beautiful</p>
 </div>
 </template>
 
