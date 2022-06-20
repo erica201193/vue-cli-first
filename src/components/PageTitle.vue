@@ -2,6 +2,7 @@
 <div id="page-title">
     <h1>La mia prima app con Vue CLI!</h1>
     <p>Vue CLI is very beautiful</p>
+    <div class="text-success">we like success-text by bootstrap</div>
 </div>
 </template>
 
